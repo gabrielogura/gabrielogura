@@ -1,4 +1,9 @@
+<div align="center">
+
 # 👋 Hi, I'm Gabriel Ogura!
+
+</div>
+
 
 <div align="center">
 
