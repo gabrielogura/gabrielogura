@@ -31,6 +31,8 @@ Interested in building reliable backend systems and continuing to deepen my know
 ### 🥭 [Desfruta Stock Tracker](https://github.com/hrsallan/desfruta-stock-tracker)
 > Management system developed for **Desfruta Polpas**, focused on **inventory control** and **billing** for fruit pulp used in juice production.
 
+> 🤝 Developed in collaboration with [hrsallan](https://github.com/hrsallan) — active contributor with direct commits to the [Repository](https://github.com/hrsallan/desfruta-stock-tracker).
+
 **Links:** [Desfruta Instagram](https://www.instagram.com/desfruta_polpas?igsh=MWI2cGJsZTZvMm1yZg==)
 
 **Technologies:** `React` `Vite` `CSS` `REST API` `Toast Notifications`
