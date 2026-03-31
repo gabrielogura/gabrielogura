@@ -31,7 +31,7 @@ Tenho interesse em construir sistemas backend confiáveis e continuar aprofundan
 ### 🥭 [Desfruta Stock Tracker](https://github.com/hrsallan/desfruta-stock-tracker)
 Sistema de gestão desenvolvido para a **Desfruta Polpas**, com foco em **controle de estoque** e **faturamento** de polpas de fruta utilizadas na produção de sucos.
 
-> 🤝 Desenvolvido em colaboração com [hrsallan](https://github.com/hrsallan) — colaborador ativo com commits diretos no [Repository](https://github.com/hrsallan/desfruta-stock-tracker).
+> 🤝 Desenvolvido em colaboração com [hrsallan](https://github.com/hrsallan) — ambos contribuíram ativamente com commits diretos no [Repositório](https://github.com/hrsallan/desfruta-stock-tracker), com continuidade neste [Repositório](https://github.com/gabrielogura/desfruta-stock-tracker).
 
 **Links:** [Desfruta Instagram](https://www.instagram.com/desfruta_polpas?igsh=MWI2cGJsZTZvMm1yZg==)
 
