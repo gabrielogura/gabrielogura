@@ -46,10 +46,10 @@ Interested in building reliable backend systems and continuing to deepen my know
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gabrielogura&show_icons=true&theme=blue-green&locale=pt-br&title_color=00bfff&icon_color=f2c94c&" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielogura&layout=compact&theme=blue-green&locale=pt-br&title_color=00bfff&cache_seconds=43200&langs_count=10" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=gabrielogura&layout=compact&theme=blue-green&locale=pt-br&title_color=00bfff" height="150" alt="languages graph"/>
 </div>
 
 <div align="center">
