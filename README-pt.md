@@ -63,7 +63,7 @@ Sistema de gestão desenvolvido para a **Desfruta Polpas**, com foco em **contro
   <a href="https://instagram.com/gabrielzsogura" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielzsogura@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielzsogura@gmail.com&su=Oportunidade de trabalho" target="_blank" class="contact-btn">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
   <a href="https://linkedin.com/in/gabrielogura" target="_blank">
