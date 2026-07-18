@@ -20,7 +20,7 @@ Interested in building reliable backend systems and continuing to deepen my know
 ## 🛠️ Technologies & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,sqlite,docker,flask,html,css,javascript,react,git&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,django,PostgreSQL,docker,flask,html,css,javascript,react,git&perline=5" />
   </a>
 </p>
 
